@@ -1,1 +1,1 @@
-This is the first project from The Odin Project. The goal is to make a website that has a few recipes on it. It will include the recipe steps, images, and links to similar recipes.
+A web project with a few recipes on it. It includes a description of the recipe, ingredients, and steps to follow. 
